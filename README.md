@@ -321,14 +321,14 @@ This score should be treated as a system-level signal, **not as a medical certai
 ## 🖥️ MedAssist Dashboard
 
 <p align="center">
-  <img src="images/dashboard.png" alt="MedAssist Dashboard" width="900"/>
+  <img src="images/dashboard.jpeg" alt="MedAssist Dashboard" width="900"/>
 </p>
 
 <p align="center">
   <i>MedAssist dashboard for document ingestion, medical research queries and safety-aware responses.</i>
 </p>
 
-> 📌 **Screenshot path:** `images/dashboard.png`
+> 📌 **Screenshot path:** `images/dashboard.jpeg`
 
 ---
 
