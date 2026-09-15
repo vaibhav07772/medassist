@@ -1,0 +1,23 @@
+# Core
+streamlit==1.29.0
+python-dotenv==1.0.0
+pandas==2.2.2
+numpy==1.26.3
+
+# LLM & RAG
+langchain-groq>=0.2.2
+langchain-text-splitters>=0.3.0
+chromadb==0.5.0
+sentence-transformers==2.4.0
+
+# PDF Processing
+pdfplumber==0.11.0
+pypdf2==3.0.1
+
+# Vision (optional)
+google-generativeai==0.6.0
+pillow==10.2.0
+
+# Utils
+pydantic==2.9.0
+sqlalchemy==2.0.23

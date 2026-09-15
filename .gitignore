@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environment
+env/
+venv/
+ENV/
+.venv/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+logs/
+
+# Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ChromaDB (auto-generated)
+data/chroma_db/
+chroma_db/
+
+# Medical documents (user uploads)
+data/documents/*
+!data/documents/.gitkeep
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# ⚠️ images/ is allowed ✅
+# images/
